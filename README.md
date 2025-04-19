@@ -61,17 +61,7 @@ php artisan key:generate
 
 > Make sure to configure your `.env` if needed, especially if using database or external services.
 
-### 4. Place the RSS file
-
-Put your `berita.xml` file inside:
-
-```
-storage/app/berita.xml
-```
-
-You can manually edit or update it with latest RSS content.
-
-### 5. Run the development server
+### 4. Run the development server
 
 ```bash
 php artisan serve
@@ -80,7 +70,7 @@ php artisan serve
 Then open in browser:
 
 ```
-http://localhost:8000/berita
+http://localhost:8000/getdata
 ```
 
 ---
