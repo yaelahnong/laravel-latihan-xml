@@ -1,0 +1,22 @@
+<rss version="2.0">
+    <channel>
+        <title>Suara - Otomotif</title>
+        <link>https://www.suara.com/rss/otomotif</link>
+        <description>Latest news and updates about the automotive world.</description>
+        <item>
+            <title>Judul Berita A</title>
+            <link>https://link-berita-a.com</link>
+            <pubDate>Thu, 19 Apr 2025 12:00:00 +0700</pubDate>
+            <description>Deskripsi berita A.</description>
+            <enclosure url="https://example.com/image.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <title>Judul Berita B</title>
+            <link>https://link-berita-b.com</link>
+            <pubDate>Thu, 19 Apr 2025 13:00:00 +0700</pubDate>
+            <description>Deskripsi berita B.</description>
+            <enclosure url="https://example.com/image-b.jpg" type="image/jpeg" />
+        </item>
+        <!-- Repeat for each item -->
+    </channel>
+</rss>
