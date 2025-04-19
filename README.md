@@ -42,8 +42,8 @@ Follow these steps to get the project up and running:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/laravel-rss-reader.git
-cd laravel-rss-reader
+git clone https://github.com/yaelahnong/laravel-latihan-xml.git
+cd laravel-latihan-xml
 ```
 
 ### 2. Install dependencies
